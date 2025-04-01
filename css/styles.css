@@ -7,7 +7,6 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-
 .logo{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -18,7 +17,6 @@ body {
     color: #4D5AE5;
 }
 .logo-studio {
-    font-family: var(--second-family);
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
@@ -39,26 +37,6 @@ body {
 .address {
     font-style: normal;
 }
-
-/*.mail {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.mail:hover, .mail:focus {
-    color: #404bbf;
-}
-.tel {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-.tel:hover, .tel:focus {
-    color: #404bbf;
-}
-*/
 .mail-tel {
     font-size: 16px;
     line-height: 1.5;
@@ -67,4 +45,44 @@ body {
 }
 .mail-tel:hover, .mail-tel:focus {
     color: #404bbf;
+}
+
+.hero-image {
+    background-color: #2e2f42;
+}
+h1 {
+    color: white;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: white;
+    background-color: #4D5AE5;
+    cursor: pointer;
+}
+.button:hover, .button:focus {
+    background-color: #404BBF;
+}
+
+.features-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.features-p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
 }

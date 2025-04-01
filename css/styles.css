@@ -102,6 +102,7 @@ h1 {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+    text-transform: capitalize;
 }
 .ourteam-p {
     font-weight: 400;

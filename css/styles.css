@@ -72,7 +72,7 @@ body {
     background-color: #404BBF;
 }
 
-.features-h3 {
+.list-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -87,10 +87,10 @@ body {
     color: #434455;
 }
 
-.sec3 {
+.section-ourteam {
     background-color: #F4F4FD
 }
-.ourteam-h2 {
+.oourteam-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;

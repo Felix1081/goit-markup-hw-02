@@ -50,7 +50,7 @@ body {
 .hero-image {
     background-color: #2e2f42;
 }
-.hero-image .h1 {
+.title {
     color: white;
     font-weight: 700;
     font-size: 56px;

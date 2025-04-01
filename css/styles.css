@@ -8,7 +8,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.logo-web{
+.logo-web {
     font-family:"Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -17,7 +17,7 @@ body {
     text-transform: uppercase;
     color: #4D5AE5;
     }
-.logo-studio{
+.logo-studio {
     font-family: var(--second-family);
     font-weight: 700;
     font-size: 18px;
@@ -26,6 +26,6 @@ body {
     text-transform: uppercase;
     color: #2E2F42;
 }
-.studio{
+.studio {
     font-weight: 500;
 }

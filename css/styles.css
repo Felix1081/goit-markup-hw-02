@@ -50,7 +50,7 @@ body {
 .hero-image {
     background-color: #2e2f42;
 }
-h1 {
+.hero-image .h1 {
     color: white;
     font-weight: 700;
     font-size: 56px;
@@ -87,6 +87,9 @@ h1 {
     color: #434455;
 }
 
+.sec3 {
+    background-color: #F4F4FD
+}
 .ourteam-h2 {
     font-weight: 700;
     font-size: 36px;

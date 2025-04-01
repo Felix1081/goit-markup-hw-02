@@ -75,14 +75,39 @@ h1 {
 .features-h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
 .features-p {
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.ourteam-h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
+.ourteam-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2E2F42;
+}
+.ourteam-p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
     color: #434455;
 }

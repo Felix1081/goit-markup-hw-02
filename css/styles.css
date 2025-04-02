@@ -145,3 +145,11 @@ body {
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }
+.logo-studio-ftr {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+}

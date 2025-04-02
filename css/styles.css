@@ -79,7 +79,7 @@ body {
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-.features-p {
+.features-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -97,6 +97,10 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+    text-transform: capitalize;
+}
+.ourteam-list {
+    background-color: #FFFFFF
 }
 .ourteam-title {
     font-weight: 500;
